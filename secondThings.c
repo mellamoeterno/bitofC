@@ -21,8 +21,9 @@ int main(){
     char grade = 'F'; //chars store a single character
 
 
-    //in c there is no 'strings' so we use a array of characters to represent a string:
-
+    //in c there is no 'strings' 
+    //
+    //so we use a array of characters to represent a string:
     char jardin[] = "dans le jardin";
 
     bool isOnline = false;//bools are binary, they either true or false (true=1 false=0) 
@@ -50,3 +51,10 @@ int main(){
     }
     return 0;
 }
+
+//int = whole numbers (4 bytes)
+//float = single precision decimal number (4 bytes)
+//double = double precision decimal number (8 bytes)
+//char = single characters (1 byte)
+//char[] = array of characters (size varies)
+//bool = true or false (1 byte, requires <stdbool.h>)
