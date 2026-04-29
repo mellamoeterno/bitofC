@@ -16,7 +16,8 @@ int main () {
 
     int num4 = -100;
     int num5 = +100;
-
+ 
+    
     printf("%3d\n", num1); //this number along with d (%3d) is the width amount of of space that will
     printf("%3d\n", num2); //display in the terminal (taking in count te size of also the int number)
     printf("%3d\n", num3);
