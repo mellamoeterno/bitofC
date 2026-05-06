@@ -21,7 +21,7 @@ int main(){
     char grade = 'F'; //chars store a single character
 
 
-    //in c there is no 'strings' 
+    //in c there is no 'strings'   
     //
     //so we use a array of characters to represent a string:
     char jardin[] = "dans le jardin";
