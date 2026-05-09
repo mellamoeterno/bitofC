@@ -57,4 +57,4 @@ int main () {
     printf("%7.2f\n", price3);
 
     return 0;
-}
+} 
