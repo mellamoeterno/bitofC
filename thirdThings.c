@@ -58,3 +58,12 @@ int main () {
 
     return 0;
 } 
+
+/* 
+
+Variables and Data Types: Storing data using types like int, float, and char. 
+Functions: Code blocks that perform specific tasks, with main() serving as the entry point for every program. 
+Control Structures: Using loops and conditional statements (like if and switch) to direct program flow.
+Memory Management: Directly manipulating memory through pointers and dynamic allocation functions like malloc.
+
+ */
